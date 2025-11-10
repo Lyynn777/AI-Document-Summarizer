@@ -88,22 +88,6 @@ AI-Document-Summarizer/
     └── css/
         └── style.css
 ```
-
----
-
-## 📸 Screenshots
-
-| Upload Page        | Summary Output     |
-| ------------------ | ------------------ |
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-To add screenshots:
-
-1. Run your app locally.
-2. Take screenshots (Windows: `Snip & Sketch`, Mac: `Shift + Cmd + 4`).
-3. Upload to your GitHub repo under `/assets/` or `/images/`.
-4. Reference them here using Markdown syntax.
-
 ---
 
 ## ⚠️ Limitations
