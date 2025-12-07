@@ -1,4 +1,9 @@
 # 🧠AI Document Summarizer Web App
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?style=for-the-badge&logo=flask&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-orange?style=for-the-badge&logo=huggingface&logoColor=black)
+![Model](https://img.shields.io/badge/Model-T5--Small-blueviolet?style=for-the-badge)
+![Local](https://img.shields.io/badge/Runtime-Local_CPU-green?style=for-the-badge)
 
 An **AI-powered web application** that summarizes lengthy PDF documents into **concise, readable bullet points** using **Natural Language Processing (NLP)** and **Transformer-based models**.  
 Built with **Flask**, **Hugging Face Transformers (T5-small)**, and **pdfplumber** for text extraction.
